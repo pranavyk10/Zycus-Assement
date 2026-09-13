@@ -1,0 +1,93 @@
+{
+  "file": "HLD-10.pdf",
+  "payables": [
+    {
+      "invoice_number": "",
+      "invoice_date": "2026-05-07",
+      "due_date": "2026-06-04",
+      "invoice_type": "INVOICE",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Speedwell Estonia AS",
+        "supplier_id": "",
+        "address": "High Street 36, 75310 Harju maakond, Eesti",
+        "vat_id": "10788788"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "",
+      "po_id": "",
+      "gross_total": "254.52",
+      "subtotal": "223.98",
+      "total_tax_amount": "30.54",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Transport services (KM code B)",
+          "item_type": "FREIGHT",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "96.73",
+          "total": "96.73",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM",
+              "tax_rate": "0",
+              "tax_amount": "0.00",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Transport services (KM code A)",
+          "item_type": "FREIGHT",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "127.25",
+          "total": "127.25",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "KM",
+              "tax_rate": "24",
+              "tax_amount": "30.53",
+              "tax_type_code": "EST_240_VAT"
+            }
+          ]
+        },
+        {
+          "description": "UMARDAMINE",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "0.01",
+          "total": "0.01",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

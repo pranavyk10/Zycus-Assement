@@ -1,0 +1,10 @@
+{
+  "file": "DU-02.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "customs consolidated invoice",
+      "reason": "Customs Consolidated Invoice 554701215 for import valuation (37,534.94 EUR total on pages 1-2); not a supplier bill payable. 20-page pack — only pages 1-2 visible; remaining pages may contain additional documents."
+    }
+  ]
+}

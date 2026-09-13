@@ -1,0 +1,10 @@
+{
+  "file": "DU-09.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "internal approval form",
+      "reason": "Internal CADENCE donations and sponsorship approval form (,995.00 USD) plus email cover page; not a supplier invoice."
+    }
+  ]
+}

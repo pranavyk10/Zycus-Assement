@@ -1,0 +1,10 @@
+{
+  "file": "INV-14.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "not_payable",
+      "reason": "Outbound tax invoice from Northwind Services UK Ltd to customer Silverbrook Media Limited; not a supplier payable to the tenant."
+    }
+  ]
+}

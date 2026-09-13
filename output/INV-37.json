@@ -1,0 +1,118 @@
+{
+  "file": "INV-37.pdf",
+  "payables": [
+    {
+      "invoice_number": "5568",
+      "invoice_date": "2018-06-12",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "USD",
+      "supplier": {
+        "name": "1120 Vermont Avenue Associates, LLP",
+        "supplier_id": "",
+        "address": "",
+        "vat_id": ""
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "17816",
+      "po_id": "",
+      "gross_total": "2487.73",
+      "subtotal": "",
+      "total_tax_amount": "112.62",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [
+        {
+          "tax_type": "TAX",
+          "tax_name": "Sales tax at 0.0575 on utility bills",
+          "tax_rate": "5.75",
+          "tax_amount": "105.60",
+          "tax_type_code": ""
+        },
+        {
+          "tax_type": "TAX",
+          "tax_name": "Sales tax at 0.0575 on building services",
+          "tax_rate": "5.75",
+          "tax_amount": "7.02",
+          "tax_type_code": ""
+        }
+      ],
+      "line_items": [
+        {
+          "description": "Non-Residential-GT electric energy (16031 KWH billed)",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "1570.37",
+          "total": "1570.37",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Maximum demand electric charges",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "266.10",
+          "total": "266.10",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Cooling system condenser water usage",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "393.47",
+          "total": "393.47",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Common equipment PM",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "23.18",
+          "total": "23.18",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        },
+        {
+          "description": "Building service fees",
+          "item_type": "SERVICE",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "122.00",
+          "total": "122.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": []
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

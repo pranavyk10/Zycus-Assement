@@ -1,0 +1,10 @@
+{
+  "file": "INV-26.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "quotation",
+      "reason": "Document header is SALES with Quotation No.; not a supplier tax invoice. Line items on page 1 sum to 846.13 but printed total is 873.53 — line 30 missing/unreadable, preventing bookable reconstruction."
+    }
+  ]
+}

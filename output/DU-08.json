@@ -1,0 +1,10 @@
+{
+  "file": "DU-08.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "payment reminder",
+      "reason": "Mahnung (dunning notice) from Silverbrook Media GmbH & Co. KG showing net account balance 4.10 EUR; not a primary supplier invoice."
+    }
+  ]
+}

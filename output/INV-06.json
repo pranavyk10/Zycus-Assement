@@ -1,0 +1,584 @@
+{
+  "file": "INV-06.pdf",
+  "payables": [
+    {
+      "invoice_number": "8527907727",
+      "invoice_date": "2025-04-07",
+      "due_date": "",
+      "invoice_type": "INVOICE",
+      "currency": "ZAR",
+      "supplier": {
+        "name": "Meridian Mobility Ltd",
+        "supplier_id": "",
+        "address": "Jalan Ampang 23087",
+        "vat_id": "5471258869"
+      },
+      "buyer": {
+        "company_code": "",
+        "business_unit_code": "",
+        "location_code": ""
+      },
+      "payment_term_id": "",
+      "po_number": "75884754",
+      "po_id": "",
+      "gross_total": "1683.98",
+      "subtotal": "1633.98",
+      "total_tax_amount": "169.83",
+      "discount_amount": "",
+      "freight_charges": "",
+      "insurance_charges": "",
+      "extra_charges": "",
+      "excise_duties": "",
+      "taxes": [],
+      "line_items": [
+        {
+          "description": "Pnp Bananas Box 1.2kg",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "44.99",
+          "total": "44.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT Zero Rated",
+              "tax_rate": "0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Banana Loaf 300g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "21.73",
+          "total": "24.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Liqui-fruit Breakfast Punch Fruit Juice",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "21.74",
+          "total": "25.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Liqui-fruit Berry Blaze Juice 1l",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "21.74",
+          "total": "25.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Liqui-fruit Cranberry Cooler Juice 1l",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "21.74",
+          "total": "25.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Liqui-fruit Orange Fruit Juice 1l",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "21.74",
+          "total": "25.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Ripe & Ready Cling Peaches",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "56.99",
+          "total": "56.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT Zero Rated",
+              "tax_rate": "0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Red Grapes 500g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "39.99",
+          "total": "39.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT Zero Rated",
+              "tax_rate": "0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp White Grapes 500g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "39.99",
+          "total": "39.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT Zero Rated",
+              "tax_rate": "0",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Nature Valley Crunchy Oats & Honey",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "60.86",
+          "total": "69.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Kellogg's Cocoa & Nutmix Granola",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "63.47",
+          "total": "72.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Kellogg's Cranberry & Linseed Granola",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "63.47",
+          "total": "72.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pringles Salt & Vinegar Potato Chips",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "60.86",
+          "total": "69.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pringles Sour Cream & Onion Potato Chips",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "60.86",
+          "total": "69.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Sliced Beef Biltong 300g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "99.12",
+          "total": "113.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Roasted & Salted Economy Mixed Nuts",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "109.56",
+          "total": "125.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Bakehouse Blueberry Muffins 4 Pack",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "34.77",
+          "total": "39.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Full Cream Smooth Plain Yoghurt 1kg",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "2",
+          "unit_price": "33.90",
+          "total": "77.98",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Granola 750g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "50.43",
+          "total": "57.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Berry Muesli Cereal 750g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "65.21",
+          "total": "74.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Kellogg's Corn Flakes 750g",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "65.21",
+          "total": "74.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Clover Uht Full Cream Long Life",
+          "item_type": "GOODS",
+          "uom": "CS(6)",
+          "quantity": "2",
+          "unit_price": "86.95",
+          "total": "199.98",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Little Bee Honey Squeeze Bottle 1kg",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "139.12",
+          "total": "159.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Pnp Bakehouse Blueberry Muffins 4 Pack",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "1",
+          "unit_price": "34.77",
+          "total": "39.99",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Online Shopping Bag",
+          "item_type": "GOODS",
+          "uom": "EA",
+          "quantity": "4",
+          "unit_price": "1.13",
+          "total": "5.20",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        },
+        {
+          "description": "Delivery Cost",
+          "item_type": "FREIGHT",
+          "uom": "",
+          "quantity": "1",
+          "unit_price": "43.48",
+          "total": "50.00",
+          "discount": "",
+          "discount_percentage": "",
+          "tax_rate": "",
+          "tax_amount": "",
+          "taxes": [
+            {
+              "tax_type": "VAT",
+              "tax_name": "VAT",
+              "tax_rate": "15",
+              "tax_amount": "",
+              "tax_type_code": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "declined": []
+}

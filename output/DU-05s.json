@@ -1,0 +1,10 @@
+{
+  "file": "DU-05s.pdf",
+  "payables": [],
+  "declined": [
+    {
+      "doc_type": "delivery note",
+      "reason": "Vantek delivery notes without prices or amount owed. 15-page pack — only pages 1-2 visible (order 3057199 and 3060775 partial deliveries)."
+    }
+  ]
+}
